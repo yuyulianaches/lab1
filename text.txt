@@ -1,4 +1,8 @@
 Hello, world!
 This is new line from github!
+<<<<<<< HEAD
 vetka vetka
 new commit
+=======
+New line from GH
+>>>>>>> eeb308b88975771f649521d6064a7f2464603716
